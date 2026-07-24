@@ -45,5 +45,5 @@ In the staging layer, we have the following tables:
 - suppliers: load suppliers from datasets/suppliers.csv and insert ingestion timestamp.
 - invoices: load invoices from datasets/invoices.csv and insert ingestion timestamp.
 
-### **Datawarehouse
+### **Datawarehouse Layer**
 <img src="./readme_images/logical-model.png">
